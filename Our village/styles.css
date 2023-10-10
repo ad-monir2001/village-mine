@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(148, 164, 194);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    backface-visibility:initial
+}
+
+
+
+
+
+
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow:  5px 5px 15px rgb(202, 188, 199);
+    font-style: oblique;
+
+}
+
+
+
+.about {
+    font-family: 'Pixelify Sans', cursive;
+    color:rgb(231, 19, 36);
+    
+    font-size: large;
+    font-style: italic;
+    text-decoration: none;
+    text-shadow: 5px 5px 15px rgb(221, 214, 174);
+}
+img {
+    width:  700px;
+    height: 300px;
+    margin: 20px;
+    border: 50px;
+    border-radius: 15px;
+    
+}
+
+.population {
+    font-family:  verdana , sans-serif;
+}
